@@ -1,5 +1,7 @@
 # urmel
 
+> Alpine Linux, available in your Mac OS Catalina shell.
+
 ## NOTE
 
 Code is not working.
